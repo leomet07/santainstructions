@@ -1,3 +1,3 @@
-# Watermelon
+# Santa Instructions
 
-[https://codeforces.com/problemset/problem/4/A](https://codeforces.com/problemset/problem/4/A)
+[https://adventofcode.com/2015/day/1](https://adventofcode.com/2015/day/1)
